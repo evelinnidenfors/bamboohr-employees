@@ -1,6 +1,6 @@
 # Description
 
-Fetches employee information from BambooHR using nodejs expressjs.
+Fetches employee information from BambooHR using nodejs & expressjs.
 
 # Dependencies
 
@@ -12,4 +12,7 @@ Fetches employee information from BambooHR using nodejs expressjs.
 # How to run
 
 `npm install`
-`npm run devStart`
+
+`npm run dev`
+
+Make the call to "http://localhost:3000/" to get employee data
